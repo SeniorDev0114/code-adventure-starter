@@ -23,9 +23,11 @@ const ChatMessage: React.FC<{ message: Message }> = ({ message }) => {
             : 'bg-gray-200 dark:bg-gray-700 dark:text-white rounded-bl-none'
         }`}
       >
-        <ReactMarkdown className="prose dark:prose-invert max-w-none">
-          {message.content}
-        </ReactMarkdown>
+        <div className="prose dark:prose-invert max-w-none">
+          <ReactMarkdown>
+            {message.content}
+          </ReactMarkdown>
+        </div>
       </div>
     </div>
   );
