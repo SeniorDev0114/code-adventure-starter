@@ -1,0 +1,42 @@
+
+{
+  "auth": {
+    "email": "Почта",
+    "password": "Пароль",
+    "login": "Войти",
+    "register": "Регистрация",
+    "loginTitle": "Вход в аккаунт",
+    "registerTitle": "Создать новый аккаунт",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?",
+    "signIn": "Войти",
+    "signUp": "Зарегистрироваться"
+  },
+  "profile": {
+    "title": "Профиль",
+    "email": "Почта",
+    "registrationDate": "Дата регистрации",
+    "subscriptions": "Подписки"
+  },
+  "chat": {
+    "title": "Чат",
+    "placeholder": "Введите сообщение...",
+    "send": "Отправить",
+    "emptyChat": "Нет сообщений. Начните разговор!"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "logout": "Выйти",
+    "settings": "Настройки",
+    "language": "Язык",
+    "theme": "Тема",
+    "dark": "Темная",
+    "light": "Светлая",
+    "english": "Английский",
+    "russian": "Русский"
+  },
+  "navigation": {
+    "profile": "Профиль",
+    "chat": "Чат"
+  }
+}

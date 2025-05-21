@@ -1,0 +1,42 @@
+
+{
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "loginTitle": "Login to your account",
+    "registerTitle": "Create a new account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "signUp": "Sign up"
+  },
+  "profile": {
+    "title": "Profile",
+    "email": "Email",
+    "registrationDate": "Registration date",
+    "subscriptions": "Subscriptions"
+  },
+  "chat": {
+    "title": "Chat",
+    "placeholder": "Type a message...",
+    "send": "Send",
+    "emptyChat": "No messages yet. Start the conversation!"
+  },
+  "common": {
+    "loading": "Loading...",
+    "logout": "Logout",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "english": "English",
+    "russian": "Russian"
+  },
+  "navigation": {
+    "profile": "Profile",
+    "chat": "Chat"
+  }
+}
